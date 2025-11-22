@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=21788448&assignment_repo_type=AssignmentRepo)
 # 🚀 Django Workshop - Assignment 0: Pierwsze URL-e Django
 
 Witamy w pierwszym zadaniu z serii Django Workshop! To zadanie wprowadzi Cię w podstawy mapowania URL-i w Django.
