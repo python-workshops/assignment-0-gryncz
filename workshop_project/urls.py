@@ -16,9 +16,11 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-# TODO: Zaimportuj views zgodnie z instrukcjami w README.md
+from . import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    # TODO: Dodaj mapowanie URL-i zgodnie z README.md
+    path('', views.home),
+    path('info/', views.info),
+    path('health/', views.health_check)
 ]
